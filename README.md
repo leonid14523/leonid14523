@@ -3,17 +3,17 @@
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white style="margin-bottom: 5px;"/>   
 </a>
 
-### Data Analyst
+### :technologist: Data Analyst
 Учусь на аналитика данных на платформе Яндекс Практикум. Здесь вы можете ознакомиться с выполнеными проектами и моими навыками!
 
-#### За время обучения я освоил:
+#### :memo: За время обучения я освоил:
 - Язык **Python** (для анализа данных)
 - Язык **SQL** 
 - **Tableau** (для построения интерактивных дашбордов)
 - Базовые, логические функции и query-запросы в **MS Excel**
 - Работу в среде для проведения исследований **Jupyter Notebook**
 
-#### :hammer:Стек инструментов (Библиотеки):
+#### :hammer: Стек инструментов (Библиотеки):
 - Pandas - для работы с таблицами Big Data
 - Plotly, Matplotlib, Seaborn - для визуализации 
 - Numpy, scipy.stats - для работы с числами и статистикой
